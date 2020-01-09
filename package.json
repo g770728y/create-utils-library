@@ -1,7 +1,7 @@
 {
   "name": "utils",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "g770728y",
   "license": "MIT",
   "private": true,
@@ -17,6 +17,6 @@
     "typescript": "^3.5.3"
   },
   "files": [
-    "./dist"
+    "dist"
   ]
 }
